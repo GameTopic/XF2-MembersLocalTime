@@ -1,0 +1,23 @@
+{
+    "legacy_addon_id": "",
+    "title": "[NICK97] Member’s Local Time",
+    "description": "Show a member's local time on their profile, member card, and posts.",
+    "version_id": 1000070,
+    "version_string": "2.2.0",
+    "dev": "NICK97/ThemeHouse",
+    "dev_url": "https://www.xen-shop.com/",
+    "faq_url": "https://www.xen-shop.com/faq",
+    "support_url": "https://www.xen-shop.com/support",
+    "extra_urls": {
+        "Gaming Community": "https://cities-mods.com",
+        "Github": "https://github.com/ThemeHouse-XF/XF2-MembersLocalTime",
+        "License": "https://github.com/ThemeHouse-XF/XF2-MembersLocalTime/blob/master/LICENSE.md"
+    },
+    "require": {
+        "XF": [
+            2010010,
+            "XenForo 2.1.0+"
+        ]
+    },
+    "icon": "fas fa-user-clock"
+}
