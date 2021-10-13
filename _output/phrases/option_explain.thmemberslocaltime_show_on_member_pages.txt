@@ -1,1 +1,0 @@
-Enabling this option will show the member's local time on the member tooltip and on their profile page.
